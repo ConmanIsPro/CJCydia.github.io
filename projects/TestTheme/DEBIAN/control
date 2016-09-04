@@ -1,0 +1,8 @@
+Package: com.CJCydia.repo.github.io
+Name: CJCydia
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Welcome to ConmanIsPro's Repo
+maintainer: Conman <contactconman@gmail.com>
+Author: Conman <contactconman@gmail.com>
+Section: Tweaks (Springboard)
